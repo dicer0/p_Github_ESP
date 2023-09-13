@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color:gray;
+    text-align: center;
+}
+span{
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+    color: tomato;
+}
+h1{
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    text-align: end;
+    padding-right: 45px;
+    font-size: 55px;
+}
+p{
+    color: whitesmoke;
+    text-align: end;
+}
+
+#contenedor{
+    margin-left: 10%;
+    width: 80%;
+    border: 5px solid black;
+    text-align: center;
+    background-image: url(../img/Iron\ man.jpeg);
+    background-repeat: repeat-x;
+    background-size: contain;
+    background-position: middle;
+}
+#cabecera_main{
+    background-color: #08419c;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(189, 187, 187);
+}

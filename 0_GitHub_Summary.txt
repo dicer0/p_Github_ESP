@@ -1,0 +1,25 @@
+GITHUB REPOSITORY DESCRIPTIONS TEMPLATE:
+e_ Indicates that this technology belongs to the electronics category, _ESP means that the documentation is in Spanish, and this specific repository is about the Altium software.
+
+m_ Indicates that this technology belongs to the mechanics category, _ESP means that the documentation is in Spanish, and this specific repository is about the COMSOL software.
+
+p_ Indicates that this technology belongs to the programming category, _ESP means that the documentation is in Spanish, and this specific repository is about the Altium software.
+
+
+COMMIT TEMPLATE:
+git commit -m "MechaBible Mark I: Electronics - Node.js Spanish"
+
+
+ORDEN DE COMANDOS GIT:
+git init
+git status
+git add -A
+git commit -m “mensaje de esa versión”
+git branch main
+git checkout main
+git merge master
+Crear nuevo repositorio en GitHub → Repositories → Seleccionar su nombre → Dar clic en el botón de Code → HTTPS → Copiar la URL.
+git remote add origin url_https_extraida_de_github
+git pull origin main --allow-unrelated-histories
+ESC + SHIFT + Z + Z
+git push origin main

@@ -6,7 +6,7 @@
     <li>_ESP means that the documentation is in Spanish.</li>
   </ul>
 </h6>
-And this specific repository contains documentatio about the Git and GitHub platform, also including console CMD commands and steps to create a local and/or remote repository.</h6>
+And this specific repository contains documentation about the Git and GitHub platform, also including console CMD commands and steps to create a local and/or remote repository.</h6>
 &nbsp;
 <br/>
 &nbsp;

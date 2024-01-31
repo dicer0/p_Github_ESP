@@ -11,4 +11,4 @@ And this specific repository contains documentation about the Git and GitHub pla
 <br/>
 &nbsp;
 
-[![Altium Designer](http://dicer0.com/wp-content/uploads/2023/10/p_Github.png)](https://dicer0.com/#skills)
+[![Git & GitHub](http://dicer0.com/wp-content/uploads/2023/10/p_Github.png)](https://dicer0.com/#skills)

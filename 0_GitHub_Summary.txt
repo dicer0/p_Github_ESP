@@ -18,6 +18,7 @@ git commit -m “mensaje de esa versión”
 git branch main
 git checkout main
 git merge master
+git fetch
 Crear nuevo repositorio en GitHub → Repositories → Seleccionar su nombre → Dar clic en el botón de Code → HTTPS → Copiar la URL.
 git remote add origin url_https_extraida_de_github
 git pull origin main --allow-unrelated-histories

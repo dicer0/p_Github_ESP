@@ -24,3 +24,12 @@ git remote add origin url_https_extraida_de_github
 git pull origin main --allow-unrelated-histories
 ESC + SHIFT + Z + Z
 git push origin main
+
+
+Y LUEGO AL TRABAJAR EN UN REPOSITORIO YA CREADO Y CONECTADO:
+git status
+git add -A
+git commit -m “mensaje de esa versión”
+git pull origin main
+git fetch
+git push origin main

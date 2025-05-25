@@ -39,3 +39,7 @@ git push origin main
 Si quiero descartar los cambios:
 git stash push --include-untracked --keep-index
 git stash drop
+
+Si quiero ver una lista de los commits y moverme en el tiempo a uno de ellos:
+git log --all --graph --decorate --oneline
+git checkout numero_commit
